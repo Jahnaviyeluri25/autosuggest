@@ -1,3 +1,19 @@
 h1{
-    color:cadetblue;
+    color:cadetblue;  /* styling for all h1 tags */
+}
+
+#Heading2{
+    color:blueviolet; /* styling a particular id based text */
+}
+
+.heading{
+    color:chocolate; /* styling a group of texts of same id */
+}
+
+.para{
+    border: 2px;                /* styling a paragraph using class */
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    text-align: center;
 }
