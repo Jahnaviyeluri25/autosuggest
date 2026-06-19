@@ -22,3 +22,5 @@ DEPLOYING
 -> render acc -> website services -> at bottom "install" -> change 2 terms into npm install and node server.js -> deploy -> project deplyoed and rum on render live 
 
 -> worked on styling the navbar (heading sizes,clours,padding,border,alignment,text decoration,div-for divisions,hover-shows diff btw selected)
+
+-> worked on creating, linking and styling the card page (images ,margins, borders, applying same css for diff pages)
