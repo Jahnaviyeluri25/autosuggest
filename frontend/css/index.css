@@ -17,3 +17,27 @@ h1{
     padding: 10px;
     text-align: center;
 }
+
+.navbar{
+    border: 3px;
+    border-style: solid;
+    padding: 10px;
+    border-color: black;
+    text-align: center;
+    background-color: rgb(206, 150, 178);
+}
+.navbar a{
+    color:darkblue;
+    padding: 10px;              /* styling only the "a" part */
+    text-decoration: none;
+}
+
+.navbar a:hover{            /* hover used to show the diff btw selected and unselected*/
+    color:antiquewhite;
+    background-color:rgb(192, 33, 112);
+
+}
+
+body{
+    margin: 0px; /* removes the top space */
+}
