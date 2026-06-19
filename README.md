@@ -17,3 +17,6 @@ git push
 -> created server.js file to connect to a particular server
 -> created index.html page and added css and js files with same name "index" for styling and responsive page
 -> css files are addded in head tags and js files in the body tags
+
+DEPLOYING 
+-> render acc -> website services -> at bottom "install" -> change 2 terms into npm install and node server.js -> deploy -> project deplyoed and rum on render live  
