@@ -4,12 +4,12 @@ Verifying my git set-up
 
 Hello
 
-changes flow for pushing
+-> changes flow for pushing
 1.add(plus button)
 2.commit with message
 3.push / sync 
 
-commands for flow change
+-> commands for flow change
 git add -A
 git commit -m " change's name "
 git push
@@ -24,3 +24,5 @@ DEPLOYING
 -> worked on styling the navbar (heading sizes,clours,padding,border,alignment,text decoration,div-for divisions,hover-shows diff btw selected)
 
 -> worked on creating, linking and styling the card page (images ,margins, borders, applying same css for diff pages)
+
+-> worked on creating toggle page (changes were made in the index.js file. create a const 'profiles' which holds genders we switch btw, then defined the female profile then we use the event listener to listen by 'click' and the whole card's id is passsed to the event listener. then the ternary operator decides the selected current gender and fetches the corresponding profile objects-img,name and gender)
