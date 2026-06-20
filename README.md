@@ -34,3 +34,5 @@ DEPLOYING
 => https://dashboard.render.com/web/srv-d8qfhla8qa3s73c7kkt0/deploys/dep-d8qfhli8qa3s73c7klo0?r=2026-06-19%4008%3A06%3A50%7E2026-06-19%4008%3A09%3A58       ***render page link***
 
 => https://randomuser.me/api/       ***random user generator api link***
+
+=> https://autosuggest-backend.onrender.com/api/docs        ***swagger link used for words for suggestions***

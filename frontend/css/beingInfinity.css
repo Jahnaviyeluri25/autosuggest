@@ -5,33 +5,33 @@
     position: fixed;
     font-size:large;
     top: 10px;
-    left: 10px;
+    left: 20px;
 }
 .dot{
     position: fixed;
     top: 10px;
-    color: green;
-    right: 200px;
+    color: rgb(25, 202, 25);
+    right: 145px;
 }
 .clock{
     position: fixed;
     top: 7px;
-    right: 115px;
+    right: 60px;
 }
 .onl{
     position: fixed;
     top: 10px;
-    right: 150px;
+    right: 95px;
 }
 .sep{
     position: fixed;
     top: 10px;
-    right: 140px;
+    right: 85px;
 }
 .latency{
     position: fixed;
     top: 10px;
-    right: 85px;
+    right: 30px;
 }
 #para{
     color: rgb(130, 130, 130);
