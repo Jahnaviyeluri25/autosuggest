@@ -54,3 +54,6 @@ body{
 .card img{
     width: 100%;
 }
+.card{
+    margin-bottom: 40px;
+}
