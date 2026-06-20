@@ -26,3 +26,7 @@ DEPLOYING
 -> worked on creating, linking and styling the card page (images ,margins, borders, applying same css for diff pages)
 
 -> worked on creating toggle page (changes were made in the index.js file. create a const 'profiles' which holds genders we switch btw, then defined the female profile then we use the event listener to listen by 'click' and the whole card's id is passsed to the event listener. then the ternary operator decides the selected current gender and fetches the corresponding profile objects-img,name and gender)
+
+-> worked on toggle page (a diff approach of toggle - used array and mathematics to toggle btw 2 indices of the array [0->1 and 1->0])
+
+-> worked on random user page (used api link where random profiles are generated. first the api is converted into json then updated the profile objects i.e img,name and gender )
