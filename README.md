@@ -30,3 +30,7 @@ DEPLOYING
 -> worked on toggle page (a diff approach of toggle - used array and mathematics to toggle btw 2 indices of the array [0->1 and 1->0])
 
 -> worked on random user page (used api link where random profiles are generated. first the api is converted into json then updated the profile objects i.e img,name and gender )
+
+=> https://dashboard.render.com/web/srv-d8qfhla8qa3s73c7kkt0/deploys/dep-d8qfhli8qa3s73c7klo0?r=2026-06-19%4008%3A06%3A50%7E2026-06-19%4008%3A09%3A58       ***render page link***
+
+=> https://randomuser.me/api/       ***random user generator api link***
